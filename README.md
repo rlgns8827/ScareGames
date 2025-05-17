@@ -46,5 +46,5 @@ This project implements a simulation of the Scare Games using tournament trees i
 ## Instructions for compiling
 - To compile:  g++ main.cpp Monster.cpp RunScareGame.cpp -o monster.exe
 - To run: ./monster.exe monsters.txt single
--         ./monster.exe monsters.txt double
--     
+          ./monster.exe monsters.txt double
+    
